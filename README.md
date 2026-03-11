@@ -69,7 +69,6 @@ EXCHANGE-API-KEY=tu_api_key_aqui
 
 text
 
-En terminal/Linux:
 ```bash
 export EXCHANGE-API-KEY="tu_api_key_aqui"
 Ejecuta la aplicación
